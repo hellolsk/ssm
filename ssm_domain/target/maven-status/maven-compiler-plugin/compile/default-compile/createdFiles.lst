@@ -1,0 +1,8 @@
+com\lsk\domain\Orders.class
+com\lsk\domain\Role.class
+com\lsk\domain\Users.class
+com\lsk\domain\Permission.class
+com\lsk\domain\Travellers.class
+com\lsk\domain\SysLog.class
+com\lsk\domain\Member.class
+com\lsk\domain\Product.class
