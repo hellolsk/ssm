@@ -18,5 +18,6 @@ public class BCryptPasswordEncoderUtils {
         //$2a$10$jLmGhGxILWVgdNgY.wYLC.c/PCesRKcEho/6fpIAS2yhgiTTc9XP6
         //$2a$10$ibXTEMt4Hcxlbxpax2W7Fut6gJ6fbuVc3Y2eap5TZ9m4EGqcBL5uG
         System.out.println(pwd);
+        System.out.println("git update");
     }
 }
